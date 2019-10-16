@@ -25,7 +25,8 @@ struct ContentView: View {
                 }
             }
             .padding(.all)
-        }.navigationBarTitle(Text("Example"))
+            .navigationBarTitle("Test")
+        }
         
     }
 }
